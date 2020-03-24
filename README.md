@@ -4,7 +4,7 @@
 
 Many countries are implementing restrictions to people's movement. The visualisation shows how social distancing affects the spread on the COVID-19.
 
-Original version:
+**Original version**
 * https://twitter.com/SiouxsieW/status/1241433050556309504?s=20
 
 **Links**
@@ -26,7 +26,7 @@ This visualization is part of the EBU News Exchange’s Data Journalism project.
 
 The material may be used only by Eurovision active members and sub-licensees.
 
-You may use this animation with CC-BY-SA license. This means that it is free to use, as long as the creators are credited (already in the video), and that the new product is shared on the same terms. This means the content cannot be combined with copyrighted music, copyrighted graphics/fonts, or other IP that would prevent free re-use and further adaption.
+You may use this animation with [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode) license. This means that it is free to use, as long as the creators are credited (already in the video), and that the new product is shared on the same terms. This means the content cannot be combined with copyrighted music, copyrighted graphics/fonts, or other IP that would prevent free re-use and further adaption.
 
 ## How to build and develop
 
