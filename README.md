@@ -4,6 +4,9 @@
 
 Many countries are implementing restrictions to people's movement. The visualisation shows how social distancing affects the spread on the COVID-19.
 
+Original version:
+* https://twitter.com/SiouxsieW/status/1241433050556309504?s=20
+
 **Links**
 -
 
@@ -15,7 +18,7 @@ Many countries are implementing restrictions to people's movement. The visualisa
 
 ## How to use
 
-If you are interested in using the interactive version please contact Teemo Tebest, tebest@ebu.ch
+Please refer to [News Exchange]() and/or [Social Newswire]().
 
 This visualization is part of the EBU News Exchange’s Data Journalism project. Other projects are available: https://news-exchange.ebu.ch/data-journalism
 
