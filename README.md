@@ -1,8 +1,4 @@
-# 2020-social_distancing
-
-**Live demos**
-* http://plus.yle.fi/dev/2020-03-nrk_simulaatio/faster-simulation.html
-* http://plus.yle.fi/dev/2020-03-nrk_simulaatio/slower-simulation.html
+# 2020-social_distancing_tree
 
 ## Animation shows how the spread of COVID-19 can be restricted with social distancing (NRK)
 
