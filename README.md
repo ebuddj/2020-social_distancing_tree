@@ -4,10 +4,6 @@
 
 Many countries are implementing restrictions to people's movement. The visualisation shows how social distancing affects the spread on the COVID-19.
 
-Original article (English and Norwegian version): 
-* https://www.nrk.no/norge/xl/social-distancing-against-corona-explained-1.14955285
-* https://www.nrk.no/norge/xl/slik-virker-den-nasjonale-koronadugnaden-1.14947139
-
 Inspired by:
 * https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
 
@@ -30,5 +26,8 @@ This visualization is part of the EBU News Exchange’s Data Journalism project.
 
 The material may be used only by Eurovision active members and sub-licensees.
 
+You may use this animation with CC-BY-SA license. This means that it is free to use, as long as the creators are credited (already in the video), and that the new product is shared on the same terms. This means the content cannot be combined with copyrighted music, copyrighted graphics/fonts, or other IP that would prevent free re-use and further adaption.
+
 ## How to build and develop
--
+
+In data folder you have the After Effects project files that you can use to make your own version.
