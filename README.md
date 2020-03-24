@@ -4,11 +4,8 @@
 
 Many countries are implementing restrictions to people's movement. The visualisation shows how social distancing affects the spread on the COVID-19.
 
-Inspired by:
-* https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
-
 **Links**
-* [News Exchange](https://news-exchange.ebu.ch/item_detail/47d4c3872f549a6186f7e26edc71ab35/2020_21014527)
+-
 
 **Sources**
 -
