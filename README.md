@@ -9,13 +9,14 @@ Many countries are implementing restrictions to people's movement. The visualisa
 
 **EBU links**
 [News Exchange](https://news-exchange.ebu.ch/item_detail/995f5ed39e287efcdc05ac24761dec19/2020_21014617)
+[Social Newswire](https://www.evnsocialnewswire.ch/viral/coronavirus-animation-illustrates-how-individual-discipline-can-reduce-the-chances-of-spreading-coronavirus-animation/)
 
 **Used by**
 -
 
 ## How to use
 
-Please refer to [News Exchange](https://news-exchange.ebu.ch/item_detail/995f5ed39e287efcdc05ac24761dec19/2020_21014617) and/or [Social Newswire]().
+Please refer to [News Exchange](https://news-exchange.ebu.ch/item_detail/995f5ed39e287efcdc05ac24761dec19/2020_21014617) and/or [Social Newswire](https://www.evnsocialnewswire.ch/viral/coronavirus-animation-illustrates-how-individual-discipline-can-reduce-the-chances-of-spreading-coronavirus-animation/).
 
 This visualization is part of the EBU News Exchange’s Data Journalism project. Other projects are available: https://news-exchange.ebu.ch/data-journalism
 
