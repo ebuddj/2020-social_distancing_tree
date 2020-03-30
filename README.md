@@ -8,8 +8,8 @@ Many countries are implementing restrictions to people's movement. The visualisa
 * https://twitter.com/SiouxsieW/status/1241433050556309504?s=20
 
 **EBU links**
-[News Exchange](https://news-exchange.ebu.ch/item_detail/995f5ed39e287efcdc05ac24761dec19/2020_21014617)
-[Social Newswire](https://www.evnsocialnewswire.ch/viral/coronavirus-animation-illustrates-how-individual-discipline-can-reduce-the-chances-of-spreading-coronavirus-animation/)
+* [News Exchange](https://news-exchange.ebu.ch/item_detail/995f5ed39e287efcdc05ac24761dec19/2020_21014617)
+* [Social Newswire](https://www.evnsocialnewswire.ch/viral/coronavirus-animation-illustrates-how-individual-discipline-can-reduce-the-chances-of-spreading-coronavirus-animation/)
 
 **Used by**
 -
